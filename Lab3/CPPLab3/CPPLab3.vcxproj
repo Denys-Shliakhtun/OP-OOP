@@ -139,12 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="module.cpp" />
+    <ClCompile Include="TTextArr.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="TText.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="module.h" />
+    <ClInclude Include="TTextArr.h" />
     <ClInclude Include="TText.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

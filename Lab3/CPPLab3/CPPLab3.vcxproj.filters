@@ -21,7 +21,7 @@
     <ClCompile Include="TText.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="module.cpp">
+    <ClCompile Include="TTextArr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,7 @@
     <ClInclude Include="TText.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="module.h">
+    <ClInclude Include="TTextArr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -6,13 +6,15 @@
 декілька текстів новими рядками. Визначити текст 
 з найменшим відсотком символів-цифр.
 */
-#include "module.h"
+#include "TTextArr.h"
 
 int main()
 {
-	TTextArr textArr = textArrGen();	//створення масиву об'єктів класу
-	textArrInput(textArr);				//введення текстів масиву
-	textArrOutput(textArr);				//виведення масиву текстів
-	symbolPercComp(textArr);			//визначення тексту з найменшим відсотком символів-цифр
+	TTextArr textArr;			//об'єкт класу масиву об'єктів класу абстракції тексту
+	textArr.textArrGen();		//створення масиву об'єктів класу
+	textArr.textArrInput();		//введення текстів масиву
+	textArr.textArrOutput();	//виведення масиву текстів
+	textArr.symbolPercComp();	//визначення тексту з найменшим відсотком символів-цифр
+	textArr.textArrDel();		//видалення масиву з пам'яті
 	system("pause");
 }

@@ -1,8 +1,2 @@
-﻿  Source.cpp
-  TText.cpp
-e:\university\II semester\basics of prog\Lab3\CPPLab3\TText.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
-e:\university\II semester\basics of prog\Lab3\CPPLab3\TText.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
-e:\university\II semester\basics of prog\Lab3\CPPLab3\TText.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
-  module.cpp
-  Generating Code...
+﻿  TTextArr.cpp
   CPPLab3.vcxproj -> E:\university\II semester\basics of prog\Lab3\CPPLab3\Debug\CPPLab3.exe
