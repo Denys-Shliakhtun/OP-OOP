@@ -1,0 +1,14 @@
+﻿  TCylinder.cpp
+  TPyramid.cpp
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(22,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(24,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(34,46): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(44,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(45,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+e:\university\II semester\basics of prog\Lab5\CPPLab5\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  module.cpp
+  Generating Code...
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(26): warning C4715: 'TPyramid::area': not all control paths return a value
+e:\university\II semester\basics of prog\Lab5\CPPLab5\TPyramid.cpp(38): warning C4715: 'TPyramid::volume': not all control paths return a value
+  CPPLab5.vcxproj -> E:\university\II semester\basics of prog\Lab5\CPPLab5\Debug\CPPLab5.exe
