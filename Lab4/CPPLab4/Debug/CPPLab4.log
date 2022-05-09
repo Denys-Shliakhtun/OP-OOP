@@ -1,0 +1,9 @@
+﻿  module.cpp
+  main.cpp
+  TPoint.cpp
+e:\university\II semester\basics of prog\Lab4\CPPLab4\TPoint.cpp(6,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\university\II semester\basics of prog\Lab4\CPPLab4\TPoint.cpp(6,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\university\II semester\basics of prog\Lab4\CPPLab4\TPoint.cpp(6,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TTriangle.cpp
+  Generating Code...
+  CPPLab4.vcxproj -> E:\university\II semester\basics of prog\Lab4\CPPLab4\Debug\CPPLab4.exe
